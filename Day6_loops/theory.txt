@@ -1,0 +1,12 @@
+Loop:
+   Loop is a block of code with repitative block of code based on condtions
+
+Types:
+1. while(Sentinal)
+2. for (for each )
+
+while:
+syntax:
+
+while condtion:
+    block of code
