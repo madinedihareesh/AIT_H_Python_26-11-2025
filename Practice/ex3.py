@@ -12,5 +12,15 @@
 #         for k in range(3):
 #             res[i][k] += A[i][j]*B[k][j]
 
-
-    
+# user=[
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000},
+#     {'name':'null','password':'somevalue','Bal':00000}
+#     ]

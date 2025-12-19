@@ -75,3 +75,10 @@ print(max(a))
 
 b=a
 print(b)
+
+
+s={x for x in range(1,5)}
+print(s)
+
+
+# exp for item in sq
