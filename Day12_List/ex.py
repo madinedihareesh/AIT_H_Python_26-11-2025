@@ -35,7 +35,7 @@
 # print(l4)
 
 # print(l1<l2)
-
+'''
 # Adding elements into the list
 L1=[1,2,3,4,5]
 # append
@@ -83,3 +83,12 @@ for i in range(0,3):
     for j in range(0,3):
         print(Nl[i][j],end=' ')
     print('')    
+'''
+'''
+l1=[1,2,3,4,5,6,7]
+
+l1[9:9]=[10]
+print(l1)
+'''
+
+
